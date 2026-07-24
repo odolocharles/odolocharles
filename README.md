@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center">Charles Odolo</h1>
-<h3 align="center">Founder & CEO, Sorabbyngo</h3>
+<h1 align="center">Am Charles Odolo</h1>
+<h3 align="center">Founder & CEO, Sorabbyngo Inc</h3>
 
 ---
 
