@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Am Charles Odolo</h1>
-<h3 align="center">Founder & CEO, Sorabbyngo Inc</h3>
+<h3 align="center">Founder & CEO, Sorabbyngo Inc,T13 Systems,Varlenyx</h3>
 
 ---
 
