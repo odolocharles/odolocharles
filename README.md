@@ -41,14 +41,14 @@
           O*+---=oO*==--::-===++**oooooooOOOoo***+==+++===++++#@.
         -OO*+++==-=+**+==----=======---=++++++*++==+++++**++++o#@@o=
 
-charles@sorabbyngo
+*charles@sorabbyngo*
 
-Role:  Founder & CEO,Software Engineer
-Companies: Sorabbyngo Inc, T13 Systems, Varlenyx
-Focus:  AI research, systems engineering
-Email:  odolocharles@gmail.com
-Phone:  +254 112 413 670
-GitHub: github.com/odolocharles
+*Role:*  Founder & CEO,Software Engineer
+*Companies:* Sorabbyngo Inc, T13 Systems, Varlenyx
+*Focus:*  AI research, systems engineering
+*Email:*  odolocharles@gmail.com
+*Phone:*  +254 112 413 670
+*GitHub:* github.com/odolocharles
 
 🟥🟩🟨🟦🟪🟦⬜⬛
 
